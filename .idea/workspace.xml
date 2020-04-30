@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e439778-02e2-4b5e-8218-96a179691b89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java2020" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/devTools/maven/apache-maven-3.6.3" />
+        <option name="nonRecursive" value="true" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="F:\devTools\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1aFKw5JQRVDzhpRy3BbC2hoNHkl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jianzhi/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\123123\java2020" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.edoup.practise.concurrent.synchronize" />
+      <recent name="com.edoup.practise.concurrent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.edoup.practise.jol" />
+      <recent name="com.edoup.practise.concurrent.synchronize" />
+      <recent name="com.edoup.practise.concurrent.problem" />
+      <recent name="com.edoup.practise.jianzhi" />
+      <recent name="com.edoup.thread" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\code\practise\java2020\jianzhi\src" />
+      <recent name="G:\code\practise\java2020\thread\src\main\java\com\edoup\practise\concurrent\synchronize\reentrant" />
+      <recent name="G:\123123\java2020\thread\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DataModelHeader">
+    <configuration name="DataModelHeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.DataModelHeader" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.HashCodeTest" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LocalTest3" />
+      <module name="thread" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0 " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LockTest" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LockTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LockTest2" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectStructTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.ObjectStructTest" />
+      <module name="thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LockTest" />
+      <item itemvalue="Application.DataModelHeader" />
+      <item itemvalue="Application.ObjectStructTest" />
+      <item itemvalue="Application.HashCodeTest" />
+      <item itemvalue="Application.LockTest2" />
+      <item itemvalue="Application.LocalTest3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataModelHeader" />
+        <item itemvalue="Application.LocalTest3" />
+        <item itemvalue="Application.LockTest2" />
+        <item itemvalue="Application.HashCodeTest" />
+        <item itemvalue="Application.ObjectStructTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e439778-02e2-4b5e-8218-96a179691b89" name="Default Changelist" comment="" />
+      <created>1586326136568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586326136568</updated>
+      <workItem from="1586326138787" duration="2441000" />
+      <workItem from="1586335625562" duration="466000" />
+      <workItem from="1586336249779" duration="5787000" />
+      <workItem from="1586348150676" duration="1253000" />
+      <workItem from="1586354531125" duration="166000" />
+      <workItem from="1586356959588" duration="765000" />
+      <workItem from="1586689908389" duration="86000" />
+      <workItem from="1586690005274" duration="1080000" />
+      <workItem from="1586788723256" duration="758000" />
+      <workItem from="1586844151964" duration="1400000" />
+      <workItem from="1586877220153" duration="5264000" />
+      <workItem from="1586959440443" duration="7642000" />
+      <workItem from="1587008095800" duration="7745000" />
+      <workItem from="1587019527094" duration="6454000" />
+      <workItem from="1587050863545" duration="2696000" />
+      <workItem from="1587091384249" duration="17151000" />
+      <workItem from="1587220424761" duration="4574000" />
+      <workItem from="1587263810703" duration="16984000" />
+      <workItem from="1587388485119" duration="5911000" />
+      <workItem from="1587481621744" duration="6214000" />
+      <workItem from="1587535096418" duration="18321000" />
+      <workItem from="1587715348468" duration="1525000" />
+      <workItem from="1587725751012" duration="1512000" />
+      <workItem from="1587883413613" duration="601000" />
+      <workItem from="1587961529083" duration="13000" />
+      <workItem from="1587987820926" duration="9000" />
+      <workItem from="1588261223846" duration="387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1216" y="536" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587096932042">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1216" y="536" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587096932042" />
+    <state x="807" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587547825561">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="807" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587547825561" />
+    <state x="843" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1587539723375">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="843" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1587539723375" />
+    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587102465629">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587102465629" />
+    <state x="1336" y="568" width="517" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587280028076">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1336" y="568" width="517" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3440.1400@0.0.3440.1400" timestamp="1587280028076" />
+    <state x="1495" y="457" width="452" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587102466703">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1495" y="457" width="452" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.3440.1400@0.0.3440.1400" timestamp="1587102466703" />
+    <state x="1237" y="100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587280594634">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1237" y="100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587280594634" />
+    <state x="1458" y="182" width="1765" height="800" key="DiffContextDialog" timestamp="1587221216545">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1458" y="182" width="1765" height="800" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587221216545" />
+    <state width="1873" height="234" key="GridCell.Tab.0.bottom" timestamp="1587725726667">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1873" height="234" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
+    <state width="1873" height="234" key="GridCell.Tab.0.center" timestamp="1587725726667">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1873" height="234" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
+    <state width="1873" height="234" key="GridCell.Tab.0.left" timestamp="1587725726667">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1873" height="234" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
+    <state width="1873" height="234" key="GridCell.Tab.0.right" timestamp="1587725726667">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1873" height="234" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
+    <state width="1780" height="562" key="GridCell.Tab.1.bottom" timestamp="1587576706053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1780" height="562" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
+    <state width="1780" height="562" key="GridCell.Tab.1.center" timestamp="1587576706053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1780" height="562" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
+    <state width="1780" height="562" key="GridCell.Tab.1.left" timestamp="1587576706053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1780" height="562" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
+    <state width="1780" height="562" key="GridCell.Tab.1.right" timestamp="1587576706053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1780" height="562" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
+    <state x="1206" y="311" width="1111" height="708" key="SettingsEditor" timestamp="1587987826819">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1206" y="311" width="1111" height="708" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1587987826819" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587264509229">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.3440.1400@0.0.3440.1400" timestamp="1587264509229" />
+    <state x="289" y="184" width="1587" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587106802483">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="289" y="184" width="1587" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587106802483" />
+    <state x="833" y="178" width="1765" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587545034567">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="833" y="178" width="1765" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587545034567" />
+    <state x="717" y="383" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587537448341">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="717" y="383" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1587537448341" />
+    <state x="440" y="202" width="1587" height="800" key="dock-window-1" timestamp="1587125891649">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="440" y="202" width="1587" height="800" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1587125891649" />
+    <state x="2070" y="346" key="extract.method.dialog" timestamp="1587052832923">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2070" y="346" key="extract.method.dialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587052832923" />
+    <state x="1343" y="263" width="807" height="801" key="find.popup" timestamp="1587557752874">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1343" y="263" width="807" height="801" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1587557752874" />
+    <state x="1771" y="342" key="new project wizard" timestamp="1588261358694">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1771" y="342" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1588261358694" />
+    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup" timestamp="1587557763335">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1587557763335" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../../source/jdk8/java/lang/String.java</url>
+          <line>136</line>
+          <properties class="java.lang.String" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java2020$LockTest.ic" NAME="LockTest Coverage Results" MODIFIED="1587539282972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.edoup.practise.lock.*</FILTER>
+    </SUITE>
+  </component>
+</project>
