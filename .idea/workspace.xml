@@ -4,7 +4,54 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e439778-02e2-4b5e-8218-96a179691b89" name="Default Changelist" comment="" />
+    <list default="true" id="7e439778-02e2-4b5e-8218-96a179691b89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/edoup/base/StringBuffer/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/edoup/base/assert/AssertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/edoup/base/objects/ObjectsEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/edoup/base/pattermatcher/MatterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhi/src/main/java/com/edoup/thread/practise/jianzhi/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhi/src/main/java/com/edoup/thread/practise/jianzhi/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vm/src/main/java/com/edoup/vm/vm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vm/vm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/jianzhi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhi/jianzhi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jianzhi/src/main/java/com/edoup/practise/jianzhi/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhi/src/main/java/com/edoup/thread/practise/jianzhi/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/TestListAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/TestListAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/automic/AutomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/automic/AutomicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/AtomicPoblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/AtomicPoblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/OrderProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/OrderProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/OrderProblemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/OrderProblemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/problem/VisibileProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/problem/VisibileProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/problem/AtomicPoblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/problem/AtomicPoblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/problem/OrderProblemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/problem/OrderProblemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/problem/VisibileProblem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/problem/VisibileProblem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/problem/VisibileProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/problem/VisibileProblem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/reentrant/ReentrantDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/reentrant/ReentrantDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/reentrant/ReentrantDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/reentrant/ReentrantDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/unableInterrupt/InterruptJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/unableInterrupt/InterruptJoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/unableInterrupt/InterruptRunDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/unableInterrupt/InterruptRunDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/unableInterrupt/InterruptSleepDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/unableInterrupt/InterruptSleepDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/unableInterrupt/InterruptWaitDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/unableInterrupt/InterruptWaitDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/concurrent/synchronize/unableInterrupt/UnableInterruptSynchronizedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/concurrent/synchronize/unableInterrupt/UnableInterruptSynchronizedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/DataModelHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/DataModelHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/HashCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/HashCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/LocalTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/LocalTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/LockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/LockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/LockTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/LockTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/jol/ObjectStructTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/jol/ObjectStructTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/lock/VolationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/lock/VolationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/thread/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/thread/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/thread/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/thread/ReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/thread/SyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/thread/SyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread/src/main/java/com/edoup/practise/threadpool/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread/src/main/java/com/edoup/thread/practise/threadpool/ThreadPoolDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,15 +74,15 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="java2020" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -58,18 +105,22 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1aFKw5JQRVDzhpRy3BbC2hoNHkl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jianzhi/src" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -95,53 +146,13 @@
       <recent name="G:\123123\java2020\thread\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataModelHeader">
-    <configuration name="DataModelHeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.DataModelHeader" />
-      <module name="thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.HashCodeTest" />
-      <module name="thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocalTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LocalTest3" />
-      <module name="thread" />
-      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0 " />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution3">
     <configuration name="LockTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LockTest" />
+      <option name="MAIN_CLASS_NAME" value="com.edoup.jianzhi.practise.jol.LockTest" />
       <module name="thread" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="PATTERN" value="com.edoup.jianzhi.practise.jol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.LockTest2" />
-      <module name="thread" />
+    <configuration name="MatterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.base.pattermatcher.MatterDemo" />
+      <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="PATTERN" value="com.edoup.base.pattermatcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +173,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectStructTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.edoup.practise.jol.ObjectStructTest" />
-      <module name="thread" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.thread.practise.jianzhi.Solution2" />
+      <module name="jianzhi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.edoup.practise.jol.*" />
+          <option name="PATTERN" value="com.edoup.thread.practise.jianzhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.thread.practise.jianzhi.Solution3" />
+      <module name="jianzhi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.thread.practise.jianzhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.base.StringBuffer.StringBufferDemo" />
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.base.objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuildDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edoup.base.StringBuildDemo" />
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edoup.base.objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,34 +227,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.LockTest" />
-      <item itemvalue="Application.DataModelHeader" />
-      <item itemvalue="Application.ObjectStructTest" />
-      <item itemvalue="Application.HashCodeTest" />
-      <item itemvalue="Application.LockTest2" />
-      <item itemvalue="Application.LocalTest3" />
+      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.StringBuildDemo" />
+      <item itemvalue="Application.StringBufferDemo" />
+      <item itemvalue="Application.MatterDemo" />
+      <item itemvalue="Application.Solution3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataModelHeader" />
-        <item itemvalue="Application.LocalTest3" />
-        <item itemvalue="Application.LockTest2" />
-        <item itemvalue="Application.HashCodeTest" />
-        <item itemvalue="Application.ObjectStructTest" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.MatterDemo" />
+        <item itemvalue="Application.StringBufferDemo" />
+        <item itemvalue="Application.StringBuildDemo" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-    <option name="showServicesTree" value="false" />
   </component>
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
@@ -246,29 +283,50 @@
       <workItem from="1587961529083" duration="13000" />
       <workItem from="1587987820926" duration="9000" />
       <workItem from="1588261223846" duration="387000" />
+      <workItem from="1588308990306" duration="2202000" />
+      <workItem from="1588400769054" duration="96000" />
+      <workItem from="1588400894017" duration="5831000" />
+      <workItem from="1588407282045" duration="2462000" />
+      <workItem from="1588481290248" duration="15337000" />
+      <workItem from="1588565558062" duration="5204000" />
+      <workItem from="1589092181676" duration="1046000" />
+      <workItem from="1589094129420" duration="2506000" />
+      <workItem from="1589118751631" duration="2702000" />
+      <workItem from="1589204534365" duration="1619000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1963" y="327" key="#Plugins" timestamp="1589094144619">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1963" y="327" key="#Plugins/0.0.3440.1400@0.0.3440.1400" timestamp="1589094144619" />
     <state x="1216" y="536" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1587096932042">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1216" y="536" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587096932042" />
-    <state x="807" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587547825561">
+    <state x="1446" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588407483906">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="807" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587547825561" />
+    <state x="1446" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1588407483906" />
     <state x="843" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1587539723375">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="843" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1587539723375" />
-    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587102465629">
+    <state x="2051" y="421" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589093570676">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587102465629" />
+    <state x="2051" y="421" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589093570676" />
+    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588401114350">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1315" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1588401114350" />
     <state x="1336" y="568" width="517" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587280028076">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -281,50 +339,62 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1237" y="100" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587280594634" />
+    <state x="2350" y="386" key="#xdebugger.evaluate" timestamp="1588503055717">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2350" y="386" key="#xdebugger.evaluate/0.0.3440.1400@0.0.3440.1400" timestamp="1588503055717" />
     <state x="1458" y="182" width="1765" height="800" key="DiffContextDialog" timestamp="1587221216545">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1458" y="182" width="1765" height="800" key="DiffContextDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1587221216545" />
-    <state width="1873" height="234" key="GridCell.Tab.0.bottom" timestamp="1587725726667">
+    <state x="1772" y="359" key="FileChooserDialogImpl" timestamp="1588569254433">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1873" height="234" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
-    <state width="1873" height="234" key="GridCell.Tab.0.center" timestamp="1587725726667">
+    <state x="1772" y="359" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1588569254433" />
+    <state width="2091" height="296" key="GridCell.Tab.0.bottom" timestamp="1589205445436">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1873" height="234" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
-    <state width="1873" height="234" key="GridCell.Tab.0.left" timestamp="1587725726667">
+    <state width="2091" height="296" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1589205445436" />
+    <state width="2091" height="296" key="GridCell.Tab.0.center" timestamp="1589205445436">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1873" height="234" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
-    <state width="1873" height="234" key="GridCell.Tab.0.right" timestamp="1587725726667">
+    <state width="2091" height="296" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1589205445436" />
+    <state width="2091" height="296" key="GridCell.Tab.0.left" timestamp="1589205445436">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1873" height="234" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1587725726667" />
-    <state width="1780" height="562" key="GridCell.Tab.1.bottom" timestamp="1587576706053">
+    <state width="2091" height="296" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1589205445436" />
+    <state width="2091" height="296" key="GridCell.Tab.0.right" timestamp="1589205445436">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1780" height="562" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
-    <state width="1780" height="562" key="GridCell.Tab.1.center" timestamp="1587576706053">
+    <state width="2091" height="296" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1589205445436" />
+    <state width="2091" height="209" key="GridCell.Tab.1.bottom" timestamp="1589093687441">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1780" height="562" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
-    <state width="1780" height="562" key="GridCell.Tab.1.left" timestamp="1587576706053">
+    <state width="2091" height="209" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1589093687441" />
+    <state width="2091" height="209" key="GridCell.Tab.1.center" timestamp="1589093687441">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1780" height="562" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
-    <state width="1780" height="562" key="GridCell.Tab.1.right" timestamp="1587576706053">
+    <state width="2091" height="209" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1589093687441" />
+    <state width="2091" height="209" key="GridCell.Tab.1.left" timestamp="1589093687441">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1780" height="562" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1587576706053" />
-    <state x="1206" y="311" width="1111" height="708" key="SettingsEditor" timestamp="1587987826819">
+    <state width="2091" height="209" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1589093687441" />
+    <state width="2091" height="209" key="GridCell.Tab.1.right" timestamp="1589093687441">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1206" y="311" width="1111" height="708" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1587987826819" />
+    <state width="2091" height="209" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1589093687441" />
+    <state x="1648" y="522" width="1111" height="708" key="SettingsEditor" timestamp="1589096760640">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1648" y="522" width="1111" height="708" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1589096760640" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1587264509229">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.3440.1400@0.0.3440.1400" timestamp="1587264509229" />
+    <state x="2196" y="510" key="chooseDestDirectoryDialog" timestamp="1588309862065">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2196" y="510" key="chooseDestDirectoryDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1588309862065" />
     <state x="289" y="184" width="1587" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587106802483">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -349,14 +419,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1343" y="263" width="807" height="801" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1587557752874" />
-    <state x="1771" y="342" key="new project wizard" timestamp="1588261358694">
+    <state x="1771" y="342" key="new project wizard" timestamp="1588400969552">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1771" y="342" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1588261358694" />
-    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup" timestamp="1587557763335">
+    <state x="1771" y="342" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1588400969552" />
+    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup" timestamp="1589206138698">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1587557763335" />
+    <state x="2003" y="301" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1589206138698" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,6 +441,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.lang.StringBuffer" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java2020$LockTest.ic" NAME="LockTest Coverage Results" MODIFIED="1587539282972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
