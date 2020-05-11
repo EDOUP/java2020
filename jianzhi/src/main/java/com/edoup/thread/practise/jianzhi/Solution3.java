@@ -15,6 +15,11 @@ import java.util.Stack;
 public class Solution3 {
 
 
+    /**
+     * 利用Collections
+     * @param listNode
+     * @return
+     */
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         ArrayList<Integer> list = new ArrayList<>();
         while (listNode != null) {
@@ -25,6 +30,11 @@ public class Solution3 {
         return list;
     }
 
+    /**
+     * 使用stack
+     * @param listNode
+     * @return
+     */
     public ArrayList<Integer> printListFromTailToHead2(ListNode listNode) {
         Stack<Integer> stack = new Stack<>();
         while (listNode != null) {
@@ -39,6 +49,20 @@ public class Solution3 {
         return list;
     }
 
+    /**
+     * 递归
+     * @param listNode
+     * @return
+     */
+    ArrayList<Integer> list3 = new ArrayList<>();
+    public ArrayList<Integer> printListFromTailToHead3(ListNode listNode) {
+        if (listNode.next != null){
+            printListFromTailToHead3(listNode.next);
+        }
+        list3.add(listNode.val);
+        return list3;
+    }
+
     public static void main(String[] args) {
         ListNode listNode = new ListNode(1);
         listNode.next = new ListNode(2);
@@ -48,6 +72,7 @@ public class Solution3 {
         Solution3 solution3 = new Solution3();
         System.out.println(solution3.printListFromTailToHead(listNode));
         System.out.println(solution3.printListFromTailToHead2(listNode));
+        System.out.println(solution3.printListFromTailToHead3(listNode));
     }
 
 }
