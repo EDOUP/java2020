@@ -1,4 +1,4 @@
-package com.edoup.thread.practise.jianzhi;
+package com.edoup.thread.practise.jianzhi.search;
 
 /**
  * 在一个二维数组中（每个一维数组的长度相同）,
@@ -13,7 +13,7 @@ package com.edoup.thread.practise.jianzhi;
  * [18,21,23,26,30]
  * ]
  */
-public class Solution1 {
+public class SolutionJZ1 {
 
     /**
      * 从右上角开始，小的在左，大的在下
@@ -48,6 +48,6 @@ public class Solution1 {
                 {3, 6, 9, 16, 22},
                 {10, 13, 14, 17, 24},
                 {18, 21, 23, 26, 30}};
-        System.out.println(new Solution1().find(31, array));
+        System.out.println(new SolutionJZ1().find(31, array));
     }
 }
