@@ -39,8 +39,7 @@ public class SolutionJZ63 {
     }
 
     private  static  PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>();
-    public void test(){
-    }
+
     public static void main(String[] args) {
       /*  minHeap.add(2);
         minHeap.add(1);
