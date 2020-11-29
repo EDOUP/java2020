@@ -15,6 +15,7 @@
         <module>jianzhi</module>
         <module>base</module>
         <module>leetcode</module>
+        <module>jvm2020</module>
     </modules>
 
     <dependencies>
