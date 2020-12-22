@@ -1,4 +1,4 @@
-package leetcode.editor;
+package leetcode.editor.binarytree;
 
 import java.util.HashSet;
 import java.util.Queue;
@@ -13,9 +13,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  */
 public class Code111 {
 
-    public static void main(String[] args) {
 
-    }
 
     /**
      * BFS
@@ -24,7 +22,9 @@ public class Code111 {
      * @return
      */
     public int minDepth(TreeNode root) {
-        if (root == null) return 0;
+        if (root == null) {
+            return 0;
+        }
         Queue<TreeNode> q = new LinkedBlockingQueue<>();
         Set<TreeNode> v = new HashSet<>();
 
@@ -59,7 +59,9 @@ public class Code111 {
      * @return
      */
     public int minDepth2(TreeNode root) {
-        if (root == null) return 0;
+        if (root == null) {
+            return 0;
+        }
 
         if (root.right == null && root.left == null) {
             return 1;
@@ -74,24 +76,7 @@ public class Code111 {
         return depth;
     }
 
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
 }
 
 
